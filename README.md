@@ -1,5 +1,6 @@
 # SC663401 Basic Programing for Data Science and Data Visualization
 > พิมพิกา ยอดศรี 643020511-3
+> กลุ่มโปรเจค : กลุ่ม alonedหน่าาา
 
 Python & Markdown
 
@@ -12,3 +13,5 @@ Python & Markdown
 - Final (กลุ่ม-สุ่ม) 20%
 
 Final Score = Score * Attendance
+
+
